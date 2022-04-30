@@ -4,10 +4,9 @@
 
 First In First Out 이라는 개념을 가진 선형 자료 구조다.
 
-![ㅁㄹㄴㅇㄹㄴㅇ](../.gitbook/assets/큐.png)
+![큐](../.gitbook/assets/큐.png)
 
 \
-
 
 ### 2. 큐 자바스크립트로 구현
 
@@ -99,13 +98,11 @@ class Queue {
 
 \
 
-
 ### 3. 원형 큐
 
 Front 와 Rear 가 이어져 있는 Queue로, Linked List로 구현했을 때 이점이 없다. (Array 로 구현)
 
 \
-
 
 ### 4. 원형 큐 자바스크립트로 구현
 
@@ -162,7 +159,6 @@ console.log(queue.isFull()); //  true
 ```
 
 \
-
 
 ### 5. 문제 풀기 - 큐 프린터 실습
 
