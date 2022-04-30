@@ -1,7 +1,6 @@
 # Table of contents
 
 * [소개](README.md)
-* [gitbook-javascript-codingtext](<README (1).md>)
 * [Part 1 자료구조/알고리즘 기초](part-1/README.md)
   * [자료구조와 알고리즘](part-1/undefined.md)
   * [자료구조의 종류](part-1/undefined-1.md)

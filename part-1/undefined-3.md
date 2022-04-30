@@ -11,7 +11,8 @@ let b = 10;
 console.log(a, b); // 10 5
 ```
 
-<br/>
+\
+
 
 ### 2. 배열 생성으로 루프 제거하기
 
@@ -24,7 +25,8 @@ const sum = Array.from(new Array(10), (_, k) => k + 1).reduce(
 console.log(sum); // 55
 ```
 
-<br/>
+\
+
 
 ### 3. 배열 내 같은 요소 제거하기
 
@@ -35,7 +37,8 @@ const uniqueNames = [...new Set(names)];
 console.log(uniqueNames); // ['Lee', 'Kim', 'Park']
 ```
 
-<br/>
+\
+
 
 ### 4. Spread 연산자를 이용한 객체 병합
 
@@ -55,7 +58,8 @@ const cherry = { ...person, ...company };
 console.log(cherry); // {name: 'SSAFY', familyName: 'im', givenName: 'cherry', address: 'Daejeon'}
 ```
 
-<br/>
+\
+
 
 ### 5. %% 와 || 활용
 
@@ -78,7 +82,8 @@ console.log(makeCompany(true)); // {name: 'SSAFY', address: 'Daejeon'}
 console.log(makeCompany(false)); // {name: 'SSAFY'}
 ```
 
-<br/>
+\
+
 
 ### 6. 구조 분해 할당 사용하기
 
@@ -107,7 +112,8 @@ const person = {
 console.log(person); // {name: 'im cherry', company: 'SSAFY'}
 ```
 
-<br/>
+\
+
 
 ### 7. 비구조화 할당 사용하기
 
@@ -128,7 +134,8 @@ const SSAFY = makeCompany({
 console.log(SSAFY); // {name: 'SSAFY', address: 'Daejeon', serviceName: 'education'}
 ```
 
-<br/>
+\
+
 
 ### 8. 동적 속성 이름
 
@@ -143,7 +150,8 @@ const person = {
 console.log(person); // {name: 'im cherry', email: 'collcr@kakao.com'}
 ```
 
-<br/>
+\
+
 
 ### 9. !! 연산자를 사용하여 Boolean 값으로 바꾸기
 
@@ -167,4 +175,4 @@ check(3.14); // 3.14
 check("Good"); // Good
 ```
 
-<br/>
+\
