@@ -4,7 +4,7 @@
 
 First In First Out 이라는 개념을 가진 선형 자료 구조다.
 
-![](../.gitbook/assets/큐.png)
+![ㅁㄹㄴㅇㄹㄴㅇ](../.gitbook/assets/큐.png)
 
 \
 

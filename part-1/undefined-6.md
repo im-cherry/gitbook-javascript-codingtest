@@ -16,11 +16,11 @@
 
 * 메모리 차이
 
-![ㅇd](../.gitbook/assets/메모리.png)
+![메모리 ](../.gitbook/assets/메모리.png)
 
 * 요소 추가 및 삭제
 
-![](../.gitbook/assets/요소.png)
+![요소 삭  ](../.gitbook/assets/요소.png)
 
 \
 
@@ -29,7 +29,7 @@
 
 Head 에서 Tail 까지 단방향으로 이어지는 가장 단순한 형태인 연결 리스트이다.
 
-![](../.gitbook/assets/단일연결리스트.png)
+![단ㅣㄹㄹㅇㅏㅈ](../.gitbook/assets/단일연결리스트.png)
 
 \
 
@@ -38,7 +38,7 @@ Head 에서 Tail 까지 단방향으로 이어지는 가장 단순한 형태인 
 
 양방향으로 이어지는 연결 리스트로, 단일 연결 리스트 보다 자료구조의 크기가 조금 더 크다.
 
-![](<../.gitbook/assets/이중 연결 리스트.png>)
+![ㅇㅁㄴㄹㄴ](<../.gitbook/assets/이중 연결 리스트.png>)
 
 \
 
@@ -47,7 +47,7 @@ Head 에서 Tail 까지 단방향으로 이어지는 가장 단순한 형태인 
 
 단일 혹은 이중 연결 리스트에서 Tail 이 Head 로 연결되는 연결 리스트로, 메모리를 아껴쓸 수 있다.
 
-![](../.gitbook/assets/환형연결리스트.png)
+![ㅁㄴㄹㅁㄴㄹㄴ](../.gitbook/assets/환형연결리스트.png)
 
 \
 
