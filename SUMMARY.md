@@ -1,11 +1,12 @@
 # Table of contents
 
 * [소개](README.md)
-* [Part 1 자료구조/알고리즘 기초](part-1/README.md)
-  * [자료구조와 알고리즘](part-1/undefined.md)
-  * [자료구조의 종류](part-1/undefined-1.md)
-  * [시간 복잡도](part-1/undefined-2.md)
-  * [자바스크립트 코드 트릭](part-1/undefined-3.md)
+* [Part 0 자료구조와 알고리즘](part-0/README.md)
+  * [자료구조와 알고리즘](part-0/undefined.md)
+  * [자료구조의 종류](part-0/undefined-1.md)
+  * [시간 복잡도](part-0/undefined-2.md)
+  * [자바스크립트 코드 트릭](part-0/undefined-3.md)
+* [Part 1 자료구조](part-1/README.md)
   * [배열](part-1/undefined-4.md)
   * [자바스크립트 배열과 객체](part-1/undefined-5.md)
   * [연결 리스트](part-1/undefined-6.md)
@@ -16,3 +17,4 @@
   * [트리](part-1/undefined-11.md)
   * [힙](part-1/undefined-12.md)
   * [트라이](part-1/undefined-13.md)
+* [Part 2 알고리즘 기초](part-2.md)

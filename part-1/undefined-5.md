@@ -79,7 +79,8 @@ for (const item of arr) {
 }
 ```
 
-<br>
+\
+
 
 ### 2. 객체
 
@@ -137,4 +138,4 @@ for (const key in obj) {
 }
 ```
 
-<br>
+\
