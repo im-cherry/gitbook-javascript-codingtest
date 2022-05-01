@@ -6,7 +6,7 @@ First In First Out 이라는 개념을 가진 선형 자료 구조다.
 
 ![큐](../.gitbook/assets/큐.png)
 
-\
+<br>
 
 ### 2. 큐 자바스크립트로 구현
 
@@ -96,13 +96,13 @@ class Queue {
 }
 ```
 
-\
+<br>
 
 ### 3. 원형 큐
 
 Front 와 Rear 가 이어져 있는 Queue로, Linked List로 구현했을 때 이점이 없다. (Array 로 구현)
 
-\
+<br>
 
 ### 4. 원형 큐 자바스크립트로 구현
 
@@ -158,7 +158,7 @@ queue.enqueue(32);
 console.log(queue.isFull()); //  true
 ```
 
-\
+<br>
 
 ### 5. 문제 풀기 - 큐 프린터 실습
 
@@ -235,4 +235,4 @@ function solution(priorities, location) {
 return count;
 ```
 
-\
+<br>

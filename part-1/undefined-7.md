@@ -6,7 +6,7 @@ Last In First Out 이라는 개념을 가진 선형 자료 구조다.
 
 ![스택](../.gitbook/assets/스택.png)
 
-\
+<br>
 
 ### 2. 자바스크립트로 구현
 
@@ -80,7 +80,7 @@ console.log(stack); // [1, 2]
 console.log(stack.size); // 2
 ```
 
-\
+<br>
 
 ### 3. 문제 풀기 - 올바른 괄호
 
@@ -127,4 +127,4 @@ function solution(s) {
 }
 ```
 
-\
+<br>
