@@ -1,5 +1,5 @@
 ---
-description: Hello
+description: '작성자 깃허브 주소 : https://github.com/im-cherry'
 ---
 
 # 소개
